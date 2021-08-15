@@ -1,7 +1,7 @@
 # Classification Human Activity Recognition
 
 Hello everyone, this is my project Deep Learning about Classification, to predict human activity.
-Iam using `Python` and some library to make this deep learning. You can download datasets from `https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones`.
+Iam using `Python` and some library to make this deep learning. You can download datasets from this. [Datasets](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 ---
 
